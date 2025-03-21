@@ -15,6 +15,7 @@ note:
       mongodb:
         uri: mongodb://root:rootpassword@localhost:27018/notes
         database: notes
+        authenticationDatabase: admin
   #spring.data.mongodb.host=localhost
   #spring.data.mongodb.port=27018
   #spring.data.mongodb.username=root
