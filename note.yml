@@ -9,12 +9,3 @@ note:
   onCallSupport:
     - (452) 456-2176
     - (546) 764-8934
-
-  spring:
-    data:
-      mongodb:uri: mongodb://root:rootpassword@localhost:27017/notes?authSource=admin
-  #spring.data.mongodb.host=localhost
-  #spring.data.mongodb.port=27018
-  #spring.data.mongodb.username=root
-  #spring.data.mongodb.password=rootpassword
-  #spring.data.mongodb.authentication-database=admin
